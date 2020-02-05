@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Welcome my friend</title>
+<title>Welcome My Friend</title>
 </head>
 <body>
 <h2>BENVENUTO NEL MONDO WEB</h2>
